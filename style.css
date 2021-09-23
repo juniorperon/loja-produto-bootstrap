@@ -32,11 +32,47 @@ iframe {
     align-items: center;
 }
 
-#profile {
-    margin: 10%;
+.profile {
+    margin: 5%;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
+
+.card {
+    margin: 1%;
+}
+
+.addcarrinho {
+    float: right;
+}
+
+.separando {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 2%;
+    margin-left: 8%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.yoda1,.yoda2,.yoda3 {
+    opacity: 10%;
+}
+
+.yoda1:hover {
+    opacity: 100%;
+    transition: .4s;
+}
+.yoda2:hover {
+    opacity: 100%;
+    transition: .6s;
+}
+.yoda3:hover {
+    opacity: 100%;
+    transition: .8s;
+}
+
 
 
