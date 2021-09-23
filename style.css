@@ -1,0 +1,42 @@
+#title {
+    text-align: center;
+    margin: 5%;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    margin:2%;
+    font-size: large;
+}
+
+h1,h3,h2,h6 {
+    margin: 2%;
+}
+
+span {
+    margin-left: 2%;
+    position: absolute;
+}
+
+iframe {
+    margin: 5%;
+}
+
+.compra {
+    margin-left: 5%;
+    display: flex;
+    align-items: center;
+}
+
+#profile {
+    margin: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
